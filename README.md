@@ -5,9 +5,9 @@ Created Neural networks from scratch, implemented vectorized code for optimizati
 
 Programming Language - Python 3.6
 
-Started from logistic regression - a node in a Neural Network
-Second step was to build a shallow layered Neural Network
-Finally the dense layered Neural Network
+Started from logistic regression - a node in a Neural Network<br>
+Second step was to build a shallow layered Neural Network<br>
+Finally the dense layered Neural Network<br>
 
 
 <b> All the code here is optimized through vectorized implementations </b>
